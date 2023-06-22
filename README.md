@@ -37,8 +37,4 @@ document.addEventListener('DOMContentLoaded', () => {
 - 1
 
 - クリック判定
-- raycastingを使っている# kadai
-# 3dgit
-# kadai
-# a
-# a
+- raycastingを使っている
